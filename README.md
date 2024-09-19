@@ -5,3 +5,5 @@
 3. 在nginx.exe文件所在目录中有个html目录，将index.html,直接拖进去，覆盖原有的
 4. 打开浏览器输入网址,  http://127.0.0.1
  
+展示图：
+![image](https://github.com/user-attachments/assets/759b72fc-dfaf-4b9c-bd49-20be2a2a41a6)
